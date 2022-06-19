@@ -2,9 +2,9 @@
 	-- By Vandamcruz22 --
 
 game.StarterGui:SetCore("SendNotification", {
-    Title = "Made By: "Vandamcruz22",
+    Title = "Made By: Vandamcruz22",
     
-    Text = "Team: "YellowGreg",
+    Text = "Team: YellowGreg",
 
     Duration = "30",
 })
