@@ -32,7 +32,7 @@ title.Parent = main
 title.BackgroundColor3 = Color3.new(255, 255, 255)
 title.Size = UDim2.new(0, 332, 0, 31)
 title.Font = Enum.Font.GothamBold
-title.Text = "Vandalism Gui"
+title.Text = "Vandalism Gui V1"
 title.TextColor3 = Color3.new(0, 0, 0)
 title.TextSize = 14
 
