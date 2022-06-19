@@ -3,8 +3,10 @@
 
 game.StarterGui:SetCore("SendNotification", {
     Title = "Made By: Vandamcruz22";
+    
+    Text = "Team: YellowGreg"
 
-    Duration = 10;
+    Duration = 30;
 })
 
 local ScreenGui = Instance.new("ScreenGui")
